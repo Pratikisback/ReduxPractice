@@ -1,0 +1,13 @@
+.btnn {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.control-row {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.number-input {
+  max-width: 150px;
+}
